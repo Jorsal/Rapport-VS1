@@ -1,0 +1,116 @@
+%  A simple AAU report template.
+%  2015-05-08 v. 1.2.0
+%  Copyright 2010-2015 by Jesper Kjær Nielsen <jkn@es.aau.dk>
+%
+%  This is free software: you can redistribute it and/or modify
+%  it under the terms of the GNU General Public License as published by
+%  the Free Software Foundation, either version 3 of the License, or
+%  (at your option) any later version.
+%
+%  This is distributed in the hope that it will be useful,
+%  but WITHOUT ANY WARRANTY; without even the implied warranty of
+%  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%  GNU General Public License for more details.
+%
+%  You can find the GNU General Public License at <http://www.gnu.org/licenses/>.
+%
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,openany]{book} % Default font size and left-justified equations
+
+%----------------------------------------------------------------------------------------
+
+\input{setup/preamble.tex}% package inclusion and set up of the document
+
+
+\begin{document}
+%	\bibliographystyle{agsm}
+
+\frontmatter													% Forindhold - nummereres med romertal
+
+%----------------------------------------------------------------------------------------
+%	FRONT PAGE
+%----------------------------------------------------------------------------------------
+
+\begingroup
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+\coordinate [below=12cm] (midpoint) at (current page.north);
+\node at (current page.north west)
+{\begin{tikzpicture}[remember picture,overlay]
+\node[anchor=north west,inner sep=0pt] at (0,0) {\includegraphics[width=\paperwidth]{figures/formalia/frontpage.pdf}}; % Background image 
+%\draw[anchor=north] (midpoint) node [fill=ocre!30!white,fill opacity=0.6,text opacity=1,inner sep=1cm]{\Huge\centering\bfseries\sffamily\parbox[c][][t]{\paperwidth}{\centering Analysis and Re-design of an Operating System\\[15pt] % Book title
+%{\Large Advansor}\\[15pt] % Subtitle
+%{\huge Group 2.028\\}}}; % Author name
+\end{tikzpicture}};
+\end{tikzpicture}
+\vfill
+\endgroup
+
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+
+\input{sections/titlepages.tex}
+
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\usechapterimagefalse % If you don't want to include a chapter image, use this to toggle images off - it can be enabled later with \usechapterimagetrue
+
+\chapterimage{figures/chapterimage/DESMI_10} % Table of contents heading image
+
+\pagestyle{empty} % No headers
+\input{sections/preface.tex}
+
+\tableofcontents % Print the table of contents itself
+\addtocontents{toc}{\protect\setcounter{tocdepth}{1}} % Include only first level of sections to toc
+\cleardoublepage % Forces the first chapter to start on an odd page so it's on the right
+
+\pagestyle{fancy} % Print headers again
+
+
+
+
+
+
+%Preface flyttet til før indholdsfortegnelse
+
+\mainmatter	
+
+%\listoftodos
+%\listoffixmes
+\input{sections/Rapport_Outline.tex}
+\input{sections/introduction.tex}
+\input{sections/problematisering.tex}
+\input{sections/methodology.tex}
+\input{sections/problem_statement.tex}
+\input{sections/discussion.tex}
+\input{sections/conclusion.tex}
+\input{sections/reflection.tex}
+\bibliography{bib/mybib}
+\appendix
+\input{sections/appA.tex}
+\cleardoublepage
+\includepdf[pages=-]{figures/formalia/backpage.pdf}
+
+
+
+\end{document}
+% \begingroup
+% 	\raggedright
+% 	\chapterimage{figures/chapterimage/ps} %
+% 	\bibliography{bib/mybib}							% Litteraturlisten inkluderes
+% \endgroup

@@ -1,0 +1,666 @@
+% Encoding: UTF-8
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% BOOKS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@BOOK{porter_competitive_advantage,
+  author = "Michael E. Porter",
+  edition = "1",
+  publisher = "New York: Free Press.",
+  title = "Competitive Advantage",
+  year = "1980"
+}
+
+@BOOK{follesdal1997,
+  author = "Dagfinn Føllesdal and Lars Walløe and Jon Elster",
+  edition = "1",
+  publisher = "Oslo, Universitetsforlaget",
+  title = "Argumentasjonsteori, språk og vitenskapsfilosofi",
+  year = "1997"
+}
+
+@BOOK{exploring_strategy,
+  author = "Gerry Johnson and Richard Whittington and Kevan Scholes and Duncan Angwin and Patrick Regnér",
+  edition = "11",
+  publisher = "Pearson Education Limited",
+  title = "Exploring Strategy",
+  year = "2017"
+}
+
+@book{SzulanskiGabriel2003Sk:b,
+series = "Sage strategy series",
+publisher = "ebrary",
+booktitle = "Sticky knowledge : barriers to knowing in the firm",
+isbn = "0761961429",
+year = "2003",
+title = "Sticky knowledge : barriers to knowing in the firm / Gabriel Szulanski.",
+edition = "Elektronisk udgave",
+language = "eng",
+address = "Palo Alto, Calif",
+author = "Szulanski, Gabriel",
+keywords = "Knowledge management; Organizational learning; Communication in organizations; Interorganizational relations",
+url = "http://site.ebrary.com/lib/aalborguniv/Doc?id=10080955",
+}
+
+@BOOK{Lambert_SCM,
+  author = "Douglas M. Lambert",
+  edition = "2",
+  publisher = "Supply Chain Management Institute; Sarasota, Florida",
+  title = "Supply Chain Management: process, partnerships, performance",
+  year = "1997"
+}
+
+@BOOK{slack,
+  author = "Nigel Slack and Stuart Chambers and Robert Johnston",
+  edition = "7",
+  publisher = "Pitman",
+  title = "Operations Management",
+  year = "2013"
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% ARTICLES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+ 
+ @ARTICLE{ferdows,
+ author = "Kasra Ferdows",
+ title = "Transfer of Changing Production Know-How",
+ year = "2006",
+ journal = "Production And Operations Management. Vol. 15, No. 1, Spring 2006, pp. 1-9"
+ }
+ 
+@Article{statista:2015,
+  author    = {Statista},
+  title     = {Regional breakdown of the global shipbuilding market in 2015, based on borders},
+  journal   = {Statista.com},
+  year      = {2015},
+  timestamp = {2018-03-08},
+  url       = {https://www.statista.com/statistics/263399/regional-breakdown-of-the-global-shipbuilding-market-by-contracting/},
+}
+
+@Article{camuffo_furlan_romano_vinelli,
+  author    = {Arnaldo Camuffo and Andrea Furlan and Pietro Romano and Andrea Vinelli},
+  title     = {Routes towards supplier and production network internationalisation},
+  journal   = {International Journal of Operations & Production Management, Vol. 27 Issue: 4, pp. 371-387},
+  year      = {2007},
+}
+
+@Article{mintzberg_5_ps,
+  author    = {Henry Mintzberg},
+  title     = {The Strategy Concept I: Five Ps for Strategy},
+  journal   = {California Management Review. Vol 30, Issue 1, pp. 11-24},
+  year      = {1987},
+}
+
+@Article{balanced_score_card,
+  author    = {Robert S. Kaplan and David P. Norton},
+  title     = {The Balanced Scorecard - Measures That Drive Performance},
+  journal   = {Harvard Business Review. Review 70, no. 1 pp. 71-79},
+  year      = {1992},
+}
+
+@Article{strategy_map,
+  author    = {Robert S. Kaplan and David P. Norton},
+  title     = {Having Trouble with Your Strategy? Then Map It.},
+  journal   = {Harvard Business Review. Review 78, no. 5 pp. 167–176},
+  year      = {2000},
+}
+
+@Article{transfer_knowledge_cheng_madsen_liangsiri,
+  author    = {Yang Cheng and Erik Skov Madsen and Jirapha Liangsiri},
+  title     = {Transferring knowledge in the relocation of manufacturing units},
+  journal   = {Strategic Outsourcing: An International Journal Vol. 3 No. 1, pp. 5-19},
+  year      = {2010},
+}
+
+@Article{levitt_exploit_life_cycle,
+  author    = {Theodore Levitt},
+  title     = {Exploit the Product Life Cycle},
+  journal   = {Harvard Business Review, Review 43, pp. 81-94},
+  year      = {1965},
+}
+
+@Article{barad_dror_2008,
+  author    = {M. Barad and S. Dror},
+  title     = {Strategy maps as improvement paths of enterprises},
+  journal   = {International Journal of Production Research, 46:23, pp. 6627–6647},
+  year      = {2008},
+}
+
+@Article{malina_selto_2001,
+  author    = {Mary A. Malina and Frank H. Selto},
+  title     = {Communicating and Controlling Strategy: An Empirical Study of the Effectiveness of the Balanced Scorecard},
+  journal   = {Journal of Management Accounting Research},
+  year      = {2001},
+}
+
+@Article{life_cycle_on_strategy,
+  author    = {James Aitken and Paul Childerhouse and Denis Towill},
+  title     = {The impact of product life cycle on supply chain strategy},
+  journal   = {Int. J. Production Economics 85 pp. 127–140},
+  year      = {2003},
+}
+
+@Article{bcg_matrix,
+  author    = {Hiram C.Barksdale and Clyde E.Harris Jr.},
+  title     = {Portfolio Analysis and the Product Life Cycle},
+  journal   = {Long Range Planning, Vol. 15 Issue 6, p. 74-83},
+  year      = {1982},
+}
+
+@Article{product_life_cycle,
+  author    = {Raymond Vernon},
+  title     = {International trade and international investment in the product life cycle.},
+  journal   = {Quarterly Journal of Economics, 81(2), 190-207.},
+  year      = {1966},
+}
+
+@ARTICLE{lincoln_guba_1985,
+ author = "Yvonna S. Lincoln and Egon G. Guba",
+ title = "Naturalistic Inquiry",
+ year = "1985",
+ journal = "Newbury Park, CA: Sage Publications"
+ }
+
+@Article{Cheng2008,
+  author    = {Yang Cheng and John Johansen and Harry Boer},
+  title     = {Coordinating knowledge transfer within manufacturing networks},
+  journal   = {Center for Industrial Production, Aalborg University},
+  year      = {2008},
+}
+
+@Article{Cheng2012,
+  author    = {Brain V. Wæhrens and Yang Cheng and Erik S. Madsen},
+  title     = {The replication of expansive production knowledge: the role of templates and principles},
+  journal   = {Baltic Journal of Management},
+  year      = {2012},
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% URL LINKS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@Misc{imo,
+  author = {International Maritime Organization IMO},
+  title  = {Ballast Water Management},
+  year   = {2018},
+  note   = {[Online; accessed 2-March-2018]},
+  url    = {\url{http://www.imo.org/en/OurWork/Environment/BallastWaterManagement/Pages/Default.aspx}},
+}
+
+@Misc{member_check,
+  author = {D. Cohen and B. Crabtree},
+  title  = {Qualitative Research Guidelines Project},
+  year   = {2006},
+  note   = {[Online; accessed 24-May-2018]},
+  url    = {\url{http://www.qualres.org/HomeMemb-3696.html}},
+}
+
+@Misc{dependability,
+  author = {D. Cohen and B. Crabtree},
+  title  = {Qualitative Research Guidelines Project},
+  year   = {2006},
+  note   = {[Online; accessed 24-May-2018]},
+  url    = {\url{http://www.qualres.org/HomeExte-3704.html}},
+}
+
+@misc{hexa_research,
+  author = "{Hexa Research}",
+  title = "Ballast Water Treatment Systems (BWTS) Market Size and Forecast, By Technology (Mechanical Method, Physical Disinfection, Chemical Method), By Type (Dry Tankers, Container Ships, General Cargos, Bulk Carriers), And Trend Analysis, 2014 - 2025",
+  year = {2017},
+  url = "\url{https://www.hexaresearch.com/research-report/ballast-water-treatment-systems-bwts-market}",
+  note = "[Online; accessed 2-March-2018]",
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Interview %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+@MISC{DVandFA,
+  author = "Fødevarestyrelsen",
+  title = "Fødevarestyrelsen",
+  year = {2017},
+  url = "\url{https://www.foedevarestyrelsen.dk/english/Pages/default.aspx}",
+  note = "[Interview by telephone; 30-October-2017; +45 72 27 69 00]",
+}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% REPORTS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+@Article{Szulanski2006,
+  author    = {Gabriel Szulanski and Robert J. Jensen},
+  title     = {Presumptive adaptation and the effectiveness of knowledge transfer},
+  journal   = {Strategic Management Journal},
+  year      = {2006},
+  volume    = {27},
+  number    = {10},
+  pages     = {937--957},
+  doi       = {10.1002/smj.551},
+  publisher = {Wiley-Blackwell},
+}
+
+@Misc{mark2018,
+  author       = {Mark Kalhøj},
+  title        = {Manager of Projects \& Engieering},
+  howpublished = {Interview},
+  month        = mar,
+  year         = {2018},
+  note         = {Interviewer; Andreas, Lasse, Rasmus},
+}
+
+@Misc{folso2018,
+  author       = {Rasmus Folsø},
+  title        = {Chief Excutive Officer},
+  howpublished = {Interview},
+  month        = mar,
+  year         = {2018},
+  note         = {Interviewer: Andreas, Rasmus, Lasse},
+}
+
+@Misc{jelstrup2018,
+  author       = {Tore Mogensen},
+  title        = {Global Supply Chain Manager},
+  howpublished = {Interview},
+  month        = jan,
+  year         = {2018},
+  note         = {Interviewer: Andreas, Lasse, Rasmus},
+}
+
+@Article{Gioia2012,
+  author    = {Dennis A. Gioia and Kevin G. Corley and Aimee L. Hamilton},
+  title     = {Seeking Qualitative Rigor in Inductive Research},
+  journal   = {Organizational Research Methods},
+  year      = {2012},
+  volume    = {16},
+  number    = {1},
+  pages     = {15--31},
+  month     = {jul},
+  doi       = {10.1177/1094428112452151},
+  publisher = {{SAGE} Publications},
+}
+
+@Article{williamson1981,
+  author    = {Williamson, Oliver E},
+  title     = {The economics of organization: The transaction cost approach},
+  journal   = {American journal of sociology},
+  year      = {1981},
+  volume    = {87},
+  number    = {3},
+  pages     = {548--577},
+  publisher = {University of Chicago Press},
+}
+
+@Article{Moller2003,
+  author    = {Morten M. M{\o}ller and John Johansen and Harry Boer},
+  title     = {Managing buyer-supplier relationships and inter-organisational competence development},
+  journal   = {Integrated Manufacturing Systems},
+  year      = {2003},
+  volume    = {14},
+  number    = {4},
+  pages     = {369--379},
+  month     = {jun},
+  doi       = {10.1108/09576060310469743},
+  publisher = {Emerald},
+}
+
+@Book{stevenson,
+  title     = {Operations management: Theory and practice},
+  publisher = {McGraw-Hill/Irwin},
+  year      = {2012},
+  author    = {Stevenson, William J},
+  volume    = {11},
+}
+
+@Misc{imo2018,
+  author = {{International Maritime Organisation}},
+  year   = {2018},
+  title  = {Ballast water management - the control of harmful invasive species},
+  note   = {Date retrieved: 28-04-2018},
+  url    = {http://www.imo.org/en/MediaCentre/HotTopics/BWM/Pages/default.aspx},
+}
+
+@Article{amaral2011,
+  author    = {Amaral, Jason and Anderson, Edward and Parker, Geoffrey},
+  title     = {Putting it together: How to succeed in distributed product development},
+  journal   = {MIT Sloan Management Review},
+  year      = {2011},
+  volume    = {52},
+  number    = {2},
+  pages     = {51},
+  publisher = {Massachusetts Institute of Technology, Cambridge, MA},
+}
+
+@Article{ing2018,
+  author  = {Ingeniøren},
+  title   = {{Guldtip fra graven: Fokusér kun på de 80 procent af helheden}},
+  journal = {Ingeniøren},
+  year    = {2018},
+  note    = {[Online; Accessed 09-05-2018]},
+  url     = {\url{https://ing.dk/artikel/guldtip-graven-fokuser-kun-paa-de-80-procent-helheden-212167}},
+}
+
+@Article{Werschkun2014,
+  author    = {Barbara Werschkun and Sangeeta Banerji and Oihane C. Basurko and Matej David and Frank Fuhr and Stephan Gollasch and Tamara Grummt and Michael Haarich and Awadhesh N. Jha and Stefan Kacan and Anja Kehrer and Jan Linders and Ehsan Mesbahi and Dandu Pughiuc and Susan D. Richardson and Beatrice Schwarz-Schulz and Amisha Shah and Norbert Theobald and Urs von Gunten and Stefanie Wieck and Thomas Höfer},
+  title     = {Emerging risks from ballast water treatment: The run-up to the International Ballast Water Management Convention},
+  journal   = {Chemosphere},
+  year      = {2014},
+  volume    = {112},
+  pages     = {256--266},
+  month     = {oct},
+  doi       = {10.1016/j.chemosphere.2014.03.135},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Efrat2017,
+  author    = {Kalanit Efrat and Shaked Gilboa and Moshe Yonatany},
+  title     = {When marketing and innovation interact: The case of born-global firms},
+  journal   = {International Business Review},
+  year      = {2017},
+  volume    = {26},
+  number    = {2},
+  pages     = {380--390},
+  month     = {apr},
+  doi       = {10.1016/j.ibusrev.2016.09.006},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Moen2002,
+  author    = {{\O}ystein Moen},
+  title     = {The Born Globals: A new generation of small European exporters},
+  journal   = {International Marketing Review},
+  year      = {2002},
+  volume    = {19},
+  number    = {2},
+  pages     = {156--175},
+  month     = {apr},
+  doi       = {10.1108/02651330210425015},
+  publisher = {Emerald},
+}
+
+@InProceedings{servantie2011and,
+  author       = {Servantie, Vinciane},
+  title        = {Why and how do Born Global firms internationalize early and rapidly? From the Business Model perspective},
+  booktitle    = {ICSB World Conference Proceedings},
+  year         = {2011},
+  pages        = {1},
+  organization = {International Council for Small business (ICSB)},
+}
+
+@Article{etemad2004,
+  author    = {Etemad, Hamid},
+  title     = {Internationalization of small and medium-sized enterprises: a grounded theoretical framework and an overview},
+  journal   = {Canadian Journal of Administrative Sciences/Revue Canadienne des Sciences de l'Administration},
+  year      = {2004},
+  volume    = {21},
+  number    = {1},
+  pages     = {1--21},
+  publisher = {Wiley Online Library},
+}
+
+@Book{stark2007,
+  title     = {Global product: Strategy, product lifecycle management and the billion customer question},
+  publisher = {Springer Science \& Business Media},
+  year      = {2007},
+  author    = {Stark, John},
+}
+
+@Misc{uscg2018,
+  author       = {USCG},
+  title        = {Ballastwater Management: Type Approvals and Pending Approvals},
+  howpublished = {Internet},
+  month        = apr,
+  year         = {2018},
+  note         = {[Online, Accessed; 10-04-2018]},
+  url          = {\url{https://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Prevention-Policy-CG-5P/Commercial-Regulations-standards-CG-5PS/Marine-Safety-Center-MSC/Ballast-Water/}},
+}
+
+@Article{Tang2006,
+  author    = {Zhijian Tang and Michael A. Butkus and Yuefeng F. Xie},
+  title     = {Crumb rubber filtration: A potential technology for ballast water treatment},
+  journal   = {Marine Environmental Research},
+  year      = {2006},
+  volume    = {61},
+  number    = {4},
+  pages     = {410--423},
+  month     = {may},
+  doi       = {10.1016/j.marenvres.2005.06.003},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Minbaeva2003,
+  author    = {D Minbaeva and T Pedersen and I Björkman and C F Fey and H J Park},
+  title     = {{MNC} knowledge transfer, subsidiary absorptive capacity, and {HRM}},
+  journal   = {Journal of International Business Studies},
+  year      = {2003},
+  volume    = {34},
+  number    = {6},
+  pages     = {586--599},
+  month     = {oct},
+  doi       = {10.1057/palgrave.jibs.8400056},
+  publisher = {Springer Nature},
+}
+
+@Misc{dnv2017,
+  author = {{DNV GL}},
+  title  = {Ballast Water Management - USCG},
+  year   = {2017},
+  note   = {[Online, acessed 20-04-2018]},
+  url    = {\url{https://www.dnvgl.com/maritime/ballast-water-management/uscg.html}},
+}
+
+@Article{lee2002,
+  author    = {Lee, Hau L},
+  title     = {Aligning supply chain strategies with product uncertainties},
+  journal   = {California management review},
+  year      = {2002},
+  volume    = {44},
+  number    = {3},
+  pages     = {105--119},
+  publisher = {SAGE Publications Sage CA: Los Angeles, CA},
+}
+
+@Article{Barnabe2017,
+  author    = {Federico Barnab{\`{e}} and Maria Cleofe Giorgino},
+  title     = {Practicing Lean strategy: Hoshin Kanri and X-Matrix in a healthcare-centered simulation},
+  journal   = {The {TQM} Journal},
+  year      = {2017},
+  volume    = {29},
+  number    = {4},
+  pages     = {590--609},
+  month     = {jun},
+  doi       = {10.1108/tqm-07-2016-0057},
+  publisher = {Emerald},
+}
+
+@Book{hutchins2016,
+  title     = {Hoshin Kanri: the strategic approach to continuous improvement},
+  publisher = {ebrary},
+  year      = {2008},
+  author    = {David C. Hutchins},
+  address   = {Palo Alto, Calif},
+  edition   = {Elektronisk udgave},
+  isbn      = {9780566087400},
+  booktitle = {Hoshin Kanri : the strategic approach to continuous improvement},
+  keywords  = {Total quality management},
+  language  = {eng},
+  url       = {http://site.ebrary.com/lib/aalborguniv/Doc?id=10254936},
+}
+
+@Article{Radomska2015,
+  author    = {Joanna Radomska},
+  title     = {Interrelation between Strategy Maps and other Implementation Tools and Actions},
+  journal   = {Procedia - Social and Behavioral Sciences},
+  year      = {2015},
+  volume    = {210},
+  pages     = {58--65},
+  month     = {dec},
+  doi       = {10.1016/j.sbspro.2015.11.329},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Norreklit2000,
+  author    = {Hanne Norreklit},
+  title     = {The balance on the balanced scorecard a critical analysis of some of its assumptions},
+  journal   = {Management Accounting Research},
+  year      = {2000},
+  volume    = {11},
+  number    = {1},
+  pages     = {65--88},
+  month     = {mar},
+  doi       = {10.1006/mare.1999.0121},
+  publisher = {Elsevier {BV}},
+}
+
+@Misc{proff2018,
+  author = {Proff.dk},
+  title  = {Regnskab - Desmi Ocean Guard A/S},
+  year   = {2018},
+  note   = {[Online, acessed 02-03-2018]},
+  url    = {\url{https://www.proff.dk/regnskab/desmi-as/n%C3%B8rresundby/hovedkontortjenester/GTPECZI10NZ/}},
+}
+
+@Misc{desmi2011,
+  author  = {Desmi A/S},
+  title   = {DESMI Ocean Guard A/S - New Directors},
+  year    = {2011},
+  note    = {[Online accessed; 02-05-2018]},
+  comment = {New director for DOG, in 2011.},
+  url     = {\url{https://www.desmi.com/news-(3)/press-release-desmi-ocean-guard-a-s.aspx#1}},
+}
+
+@Misc{Desmi2013,
+  author = {Desmi},
+  title  = {DESMI Scales Down the Sale and Marketing of DESMI Ocean Guard BWTS},
+  year   = {2013},
+  note   = {[Online accessed; 02-05-2018]},
+}
+
+@Article{Jafari2015,
+  author    = {Mostafa Jafari and Kamran Shahanaghi and Majid Tootooni},
+  title     = {Developing a Robust Strategy Map in Balanced Scorecard Model Using Scenario Planning},
+  journal   = {Mathematical Problems in Engineering},
+  year      = {2015},
+  volume    = {2015},
+  pages     = {1--9},
+  doi       = {10.1155/2015/102606},
+  publisher = {Hindawi Limited},
+}
+
+@Article{Freeman2012,
+  author    = {Susan Freeman and Kate Hutchings and Sylvie Chetty},
+  title     = {Born-Globals and Culturally Proximate Markets},
+  journal   = {Management International Review},
+  year      = {2012},
+  volume    = {52},
+  number    = {3},
+  pages     = {425--460},
+  month     = {jan},
+  doi       = {10.1007/s11575-011-0109-9},
+  publisher = {Springer Nature},
+}
+
+@Article{killing2004,
+  author  = {Thomas Malknight and Peter Killing},
+  title   = {Must-Win Battles},
+  journal = {IMD - Perspectives for Managers},
+  year    = {2004},
+  number  = {106},
+  month   = mar,
+  url     = {\url{https://www.imd.org/research/publications/upload/pfm106-lr_malnight-killing-keys.pdf}},
+}
+
+@Article{armitage2007,
+  author    = {Armitage, HM and Scholey, Cam},
+  title     = {Using strategy maps to drive performance},
+  journal   = {CMA MANAGEMENT},
+  year      = {2007},
+  volume    = {80},
+  number    = {9},
+  pages     = {22},
+  note      = {ISBN: 1-55302-193-2},
+  publisher = {CMA CANADA},
+}
+
+@InProceedings{eger2005,
+  author    = {Eger, Tido and Eckert, Claudia and Clarkson, P John},
+  title     = {The role of design freeze in product development},
+  booktitle = {DS 35: Proceedings ICED 05, the 15th International Conference on Engineering Design, Melbourne, Australia, 15.-18.08. 2005},
+  year      = {2005},
+}
+
+@InCollection{davenport2010,
+  author    = {Thomas H. Davenport},
+  title     = {Process Management for Knowledge Work},
+  booktitle = {Handbook on Business Process Management 1},
+  publisher = {Springer Berlin Heidelberg},
+  year      = {2010},
+  pages     = {17--35},
+  doi       = {10.1007/978-3-642-00416-2_2},
+}
+
+@Misc{mogensen2018,
+  author       = {André Jelstrup},
+  title        = {Production Manager},
+  howpublished = {Interview},
+  month        = mar,
+  year         = {2018},
+  note         = {Interviewer: Andreas, Lasse, Rasmus},
+}
+
+@Book{moller2012,
+  title         = {Advances in Enterprise Information Systems II},
+  publisher     = {CRC Press},
+  year          = {2012},
+  author        = {Moller, Charles and Chaudhry, Sohail},
+  __markedentry = {[Lasse:]},
+}
+
+@Article{phaal2016,
+  author        = {Phaal, Robert and Kerr, Clive and Ilevabre, Imoh and Farrukh, Clare and Routley, Mich{\`e}le and Athanassopoulou, Nikoletta},
+  title         = {On 'self-facilitating' templates for technology and innovation strategy workshops},
+  journal       = {Centre for Technology Management working paper series - Cambridge University},
+  year          = {2016},
+  issn          = {2058-8887},
+  __markedentry = {[Lasse:6]},
+}
+
+@Book{daft2010,
+  title     = {Understanding the Theory and Design of Organizations},
+  publisher = {South-Western Cengage Learning},
+  year      = {2010},
+  author    = {Daft, Richard L},
+  edition   = {10th ed.},
+  isbn      = {9780324598889},
+  abstract  = {TOCS not yet available},
+  language  = {eng},
+}
+
+@Misc{,
+}
+
+@Misc{desmi2018,
+  author       = {Desmi},
+  title        = {Mission and Vision of Desmi},
+  howpublished = {Internet},
+  month        = may,
+  year         = {2018},
+  note         = {[Online acessed; 28-05-2018]},
+  url          = {\url{https://www.desmi.com/mission-vision.aspx}},
+}
+
+@Article{,
+  author  = {Forbes},
+  journal = {Forbes},
+  year    = {2},
+  url     = {https://www.forbes.com/sites/baininsights/2014/04/30/competing-in-china-with-good-enough-products/#15e7f08243f4},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
